@@ -1,0 +1,11 @@
+@relation credit_card_transactions
+
+@attribute Amount numeric
+@attribute Time numeric
+
+@data
+200,10
+5000,2
+150,11
+7000,1
+180,12

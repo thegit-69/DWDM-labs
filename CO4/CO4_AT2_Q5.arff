@@ -1,0 +1,12 @@
+@relation traffic_data
+
+@attribute Vehicle_Count numeric
+@attribute Avg_Speed numeric
+@attribute Delay numeric
+
+@data
+200,30,10
+500,15,25
+220,28,12
+600,10,30
+210,32,9

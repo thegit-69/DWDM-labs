@@ -1,0 +1,12 @@
+@relation telecom_usage
+
+@attribute Call_Duration numeric
+@attribute Data_Usage numeric
+@attribute Recharge numeric
+
+@data
+300,5,200
+100,2,100
+350,6,220
+80,1,90
+320,5.5,210

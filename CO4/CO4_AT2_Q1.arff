@@ -1,0 +1,13 @@
+@relation supermarket_purchases
+
+@attribute Customer {C1,C2,C3,C4,C5}
+@attribute Visits_Month numeric
+@attribute Avg_Spend numeric
+@attribute Items_Bought numeric
+
+@data
+C1,10,2000,15
+C2,4,5000,8
+C3,12,1800,18
+C4,3,6000,6
+C5,11,2100,16
